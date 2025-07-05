@@ -19,7 +19,7 @@ A React-based note-taking web application inspired by Google Keep. Built as a pr
 
 ## 📸 Preview
 
-![sample](https://github.com/user-attachments/assets/d8cf2a5f-31b5-4288-acf2-c0f1479dd414)
+![keeper-sample](https://github.com/user-attachments/assets/8b83711b-b4d5-4666-aa0c-97280c05dee5)
 
 
 ## Credits
