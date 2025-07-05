@@ -1,12 +1,33 @@
-# React + Vite
+# 📝 Keeper Note Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based note-taking web application inspired by Google Keep. Built as a project from the Udemy course **"The Complete 2024 Web Development Bootcamp"** by Dr. Angela Yu.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🗒️ Add and delete notes
+- 🎯 Clean and minimal user interface
+- ⚛️ Built using ReactJS functional components and hooks
+- 📱 Beginner-friendly design
 
-## Expanding the ESLint configuration
+## 🛠️ Built With
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ ReactJS (via create-react-app)
+- 🌐 HTML5 & CSS3
+- 📜 JavaScript (ES6)
+- 🔤 Google Fonts & Material Icons (optional)
+
+
+## 📸 Preview
+
+![sample](https://github.com/user-attachments/assets/d8cf2a5f-31b5-4288-acf2-c0f1479dd414)
+
+
+## Credits
+
+This project is based on the Keeper App project from the Udemy course ["The Complete 2024 Web Development Bootcamp"](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=KEEPLEARNING) by Dr. Angela Yu.   
+All rights to the original curriculum and course structure belong to her and The App Brewery.
+
+## License
+
+This project is for educational and portfolio purposes only. Do not use commercially without proper modification and attribution.
+
